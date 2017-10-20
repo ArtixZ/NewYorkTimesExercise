@@ -1,0 +1,45 @@
+html {
+    font-size: 62.5%
+}
+
+body {
+    margin: 0;
+}
+
+.app-header {
+    height: 8rem;
+    background-color: rgb(38,50,56);
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.justify-center {
+    justify-content: center;
+}
+.align-center {
+    align-items: center;
+}
+.align-self-end {
+    align-self: flex-end;
+}
+
+.pull-right {
+    float: right;
+}
+
+/* header */
+
+.title {
+    text-align: center;
+    font-family: Fira Sans;
+    font-weight: bold;
+    font-size: 2rem;
+    color: white;
+}
