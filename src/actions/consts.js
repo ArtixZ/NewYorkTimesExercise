@@ -1,0 +1,1 @@
+export const TOP_STORY = "TOP_STORY";
