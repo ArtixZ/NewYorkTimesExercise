@@ -1,7 +1,7 @@
 {
-  "name": "redux-simple-starter",
+  "name": "New York Times exercise",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "Build a layout with New York Times API",
   "main": "index.js",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
