@@ -1,25 +1,28 @@
-# ReduxSimpleStarter
+# New York Times Exercise
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Built this exercise project from the scratch, utilizing framworks as less as possible.
+
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
+npm install;
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+npm start;
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+Home page is displayed by default.
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Search: Click the search bar, and press Enter.
 
-```
-> npm install
-> npm start
-```
+#### Packages utilzed
+
+redux-thunk
+react-router
+react-redux
+
+I'm not using any CSS framworks like bootstrap. So a bunch of work is done on layouting.
+
+I'm using flex to layout.
+
+##### Todos
+
+If i get a chance to refactor this, I will categorise CSS and rewrite it with SASS.
